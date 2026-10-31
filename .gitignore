@@ -1,6 +1,9 @@
 # PowerDesigner backup and temporary files
 *.oob
 *.eab
+*.cdb
+*.ldb
+*.pdb
 *.bak
 *.tmp
 
