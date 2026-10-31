@@ -1,0 +1,10 @@
+# PowerDesigner backup and temporary files
+*.oob
+*.eab
+*.bak
+*.tmp
+
+# Diagram image exports (only model files .oom, .eam, .cdm, .ldm, .pdm are versioned)
+*.png
+*.jpg
+*.jpeg
